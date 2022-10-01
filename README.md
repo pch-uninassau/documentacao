@@ -10,7 +10,7 @@
 | **Data** | **Modificações** | **Author** |
 | --- | --- | --- | 
 | **21/09/2022** | **Foi criado o README.md** | **Davy04** |
-| **Exemplo 2** | **Exemplo 2** | **Exemplo 2** |
+| **01/10/2022** | **Adicionar Documentação** | **Henry** |
 
 ## 🛑 • Avisos
 
